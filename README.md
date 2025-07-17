@@ -7,7 +7,7 @@
 ### <div align="center">저는 프론트앤드 개발자 준비중입니다.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 저는 현재 Github Profilinator를 개발 중입니다
   
 
 - 🌱 저는 현재 깃허브를 배우고 있습니다.  
