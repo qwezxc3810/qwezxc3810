@@ -38,9 +38,13 @@
 <a href="https://www.youtube.com/@%EB%9D%B5%EB%8F%99-j3p" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
+
+<br/>
+
+Email: [qwezxc3810@google.com](mailto:qwezxc3810@google.com) 📧
 </div>  
   
-Email: [qwezxc3810@google.com](mailto:qwezxc3810@google.com) 📧
+
 
 <br/>  
 
